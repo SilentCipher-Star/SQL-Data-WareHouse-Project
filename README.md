@@ -1,10 +1,6 @@
 # Data Warehouse and Analytics Project
 
-The materials of the data warehouse project: the source files, every script from the videos, and the docs.
-
-You take raw files from two systems, a CRM and an ERP, and build one data warehouse in SQL Server. At the end, the data is clean and ready for analysis.
-
-**New here? Open the setup guide in the `00_setup` folder.** It walks you through installing SQL Server and creating the database, on Windows and Mac, with the fixes for the common errors.
+A complete end-to-end data engineering and analytics portfolio project. This repository demonstrates how to take raw data from disparate systems (a CRM and an ERP), build a centralized data warehouse in **MariaDB**, and transform the data until it is clean, modeled, and ready for advanced analytical reporting.
 
 ```
 sql-data-warehouse-project/
