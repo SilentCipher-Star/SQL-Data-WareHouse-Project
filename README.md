@@ -76,3 +76,36 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 ---
+## 🛠️ Important Links & Tools
+
+- **MariaDB & Fedora Linux CLI:** The database engine and operating system powering this project via the command line.
+- **[Git & GitHub](https://github.com/):** Used for version control, saving, and sharing the project repository.
+- **[draw.io](https://www.drawio.com/):** Used to design the high-level data architecture and star schema models.
+- **[VS Code](https://code.visualstudio.com/):** The primary code editor used for writing and managing the SQL scripts.
+- **Project Planning:** Managed phases and tasks using Notion (Replace this text with your Notion link if you want it public!).
+
+---
+
+## 🌟 About the Developer
+
+**Anika Tahsin Rahman**  
+*Computer Science & Engineering Student | Islamic University of Technology (IUT)*
+
+I am a passionate software developer and engineering student with a strong focus on object-oriented programming, data structures, database management, and UI development. I actively build projects using C++, Java, Python, and SQL, and I am always looking for new ways to solve complex logical problems through clean, efficient code.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/SilentCipher-Star) 
+
+---
+
+## 🛡️ License
+
+[MIT](LICENSE). Use it, change it, share it, with attribution.
+
+---
+
+## 🙌 Acknowledgments & Credits
+
+This project, its requirements, datasets, and repository structure were heavily inspired by the educational blueprints provided by **Baraa Khatib Salkini** at **Data With Baraa**. 
+
+A huge thank you to Data With Baraa for the step-by-step guidance on building a modern Medallion architecture data warehouse from scratch. 
+* Learn more from him on [YouTube](https://www.youtube.com/@datawithbaraa) or at [datawithbaraa.com](https://www.datawithbaraa.com/).
