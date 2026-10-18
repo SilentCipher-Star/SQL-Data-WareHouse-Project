@@ -42,16 +42,6 @@ In this project, We can :
 
 ---
 
-## 🛠️ Tools & Environment
-1. **Database Engine:** MariaDB
-
-2. ** Operating System:** Fedora Linux
-
-3. ** Development Environment:** Visual Studio Code / Terminal CLI
-
-4. ** Version Control:** Git & GitHub
----
-
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
