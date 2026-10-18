@@ -82,7 +82,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **[Git & GitHub](https://github.com/):** Used for version control, saving, and sharing the project repository.
 - **[draw.io](https://www.drawio.com/):** Used to design the high-level data architecture and star schema models.
 - **[VS Code](https://code.visualstudio.com/):** The primary code editor used for writing and managing the SQL scripts.
-- **Project Planning:** Managed phases and tasks using Notion (Replace this text with your Notion link if you want it public!).
+- **[Project Planning](https://app.notion.com/p/Data-WareHouse-Project-3fad49a060e88010a46ad4975fc67d07?source=copy_link):** Managed phases and tasks using Notion .
 
 ---
 
